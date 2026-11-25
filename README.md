@@ -1,3 +1,15 @@
+# AtlasWorkforce — Portable Teams & Skills
+
+[![AtlasHub](https://img.shields.io/badge/AtlasHub-Galaxy-13283e)](https://atlashub.si)
+
+**Portfolio status:** Core library.
+
+Canonical reusable role and skill definitions, with planned portable Markdown/YAML team packages for AtlasBot and AtlasHQ and discovery through AtlasClub. Preserve agency-agents attribution; definitions are not installed or running agents. Adapt and test packages before distribution.
+
+> The following engineering reference is preserved for provenance. Where older naming or proposals conflict with this baseline, the [AtlasHub institutional profile](https://github.com/AtlasHub-Si) governs product scope; implementation remains subject to validation.
+
+---
+
 > **Atlas-Workforce · AtlasHub.SI technical track** · [About this integration](ATLAS.md) · [Legal](LEGAL.md)  
 > Atlas curator: [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas). Original upstream: [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents). Retains the original MIT (AgentLand Contributors) license and author attribution; this is **not** a claim that upstream was created by AtlasHub.SI.
 
@@ -1188,3 +1200,8 @@ To everyone who has opened a PR, filed an issue, started a Discussion, or simply
 Made with ❤️ by the community, for the community
 
 </div>
+
+
+---
+**AtlasHub · Augmented Enterprise · Unified Intelligence** | [atlashub.si](https://atlashub.si) · [Galaxy](https://github.com/AtlasHub-Si/AtlasHub-Command-Center)
+London · Lisbon · Goiânia
