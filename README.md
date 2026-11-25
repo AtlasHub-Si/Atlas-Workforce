@@ -1,5 +1,7 @@
 # AtlasWorkforce — Portable Teams & Skills
 
+> **Atlas Intelligence integration.** canonical reusable agent, team and approved skill definitions belong here. Research dossiers and initiative status belong in [Atlas-Intelligence](https://github.com/AtlasHub-Si/Atlas-Intelligence). Capability requests must link the initiative and provide requirements, provenance, compatibility and acceptance criteria. Do not rearrange upstream directories until installers are audited.
+
 [![AtlasHub](https://img.shields.io/badge/AtlasHub-Galaxy-13283e)](https://atlashub.si)
 
 **Portfolio status:** Core library.
