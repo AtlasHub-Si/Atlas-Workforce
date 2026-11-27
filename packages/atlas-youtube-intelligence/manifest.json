@@ -1,0 +1,41 @@
+{
+  "name": "atlas-youtube-intelligence",
+  "version": "0.1.0",
+  "status": "candidate",
+  "upstream": {
+    "repository": "https://github.com/Jakeschincariol/chatgpt-youtube-agent-skill",
+    "commit": "6314d3c17dfa1e596096654204e8a09e28cdfd74",
+    "license": "MIT"
+  },
+  "skills": [
+    "yt-audit",
+    "yt-chapters",
+    "yt-comment",
+    "yt-edit",
+    "yt-package",
+    "yt-plan",
+    "yt-retention",
+    "yt-script",
+    "yt-seo",
+    "yt-shorts",
+    "yt-viral"
+  ],
+  "upstream_skill_blobs": {
+    "yt-audit": "ca68617c283dc57707ce69dcd6a544f0ba2b040f",
+    "yt-chapters": "d27cbeb65cb475381caa5754bbaa52554d56ee22",
+    "yt-comment": "4c3dca2df9493c05474d1d0ef6154790cbdc59ed",
+    "yt-edit": "31da6f9d59f1aa354af4a0a9c21b108d76fd2e5c",
+    "yt-package": "4527bd5efd487495a814d8b3d5a69241b2015399",
+    "yt-plan": "e4402b6970232af8b3aa9b28edd223ac605fa006",
+    "yt-retention": "e1a51f495acebd82e73a9078ee8ec6cfa485da12",
+    "yt-script": "9b26481700576562bf9de25652773ba74760ae22",
+    "yt-seo": "ef102934f737108a6cf3e2c6e3267b0a5affb3f9",
+    "yt-shorts": "accbc27c38ba3c47a9a80a793aa7d0de080cb55a",
+    "yt-viral": "b4bbd0d8e185bc1af09778f0eb2ce0985ade96c3"
+  },
+  "runtime": {
+    "python": "Python 3",
+    "dependencies": "stdlib; transcript acquisition, search and analytics are external capabilities",
+    "publication": false
+  }
+}
